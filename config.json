@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "문화예술관": {
+      "style": "stone",
+      "wall": "#d4d6d8",
+      "glass": "#1f2630",
+      "frame": "#7e828a"
+    },
+    "미래백년관": {
+      "style": "ribbon",
+      "wall": "#c9c6c2",
+      "glass": "#5f8a8a",
+      "frame": "#848786"
+    },
+    "월해관(종합관)": {
+      "style": "stone",
+      "wall": "#d6d8de",
+      "glass": "#2f4a52",
+      "frame": "#a8adb4"
+    },
+    "학술정보관": {
+      "style": "ribbon",
+      "wall": "#e8e6e0",
+      "glass": "#4f5a62",
+      "frame": "#b23a2e"
+    },
+    "제1공학관": {
+      "style": "ribbon",
+      "wall": "#a8aaa2",
+      "glass": "#5f7f74",
+      "frame": "#6a6d66"
+    },
+    "자하관": {
+      "style": "stone",
+      "wall": "#9c8584",
+      "glass": "#3f4c52",
+      "frame": "#8a9095"
+    },
+    "밀레니엄관": {
+      "style": "stone",
+      "wall": "#dcdbd9",
+      "glass": "#385452",
+      "frame": "#9aa3a3"
+    },
+    "미술가정관": {
+      "style": "ribbon",
+      "wall": "#c8c3bc",
+      "glass": "#4f7f86",
+      "frame": "#8f918e"
+    },
+    "대학본부": {
+      "style": "stone",
+      "wall": "#d8d6d0",
+      "glass": "#2f3a3e",
+      "frame": "#6c7175"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
