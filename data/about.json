@@ -1,0 +1,34 @@
+{
+ "region": "서울 종로구 홍지동",
+ "nameEn": "Sangmyung University Seoul Campus",
+ "added": "2026-10-24",
+ "rank": 73,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SWCN",
+   "campus": "서울여자간호대학교",
+   "km": 0.9
+  },
+  {
+   "code": "BAEWHA",
+   "campus": "배화여자대학교",
+   "km": 2.8
+  },
+  {
+   "code": "MJC",
+   "campus": "명지전문대학",
+   "km": 3.3
+  },
+  {
+   "code": "KMU",
+   "campus": "국민대학교",
+   "km": 3.7
+  },
+  {
+   "code": "SKKU",
+   "campus": "성균관대학교 인문사회과학캠퍼스",
+   "km": 3.8
+  }
+ ]
+}
